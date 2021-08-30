@@ -5,7 +5,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/CausalInference)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/CausalInference/master)
 
-[![Graphs For Science](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/)
+[![Graphs For Science](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/subsribe)
+[![Visualization For Science](https://img.shields.io/badge/Visualization_For_Science-Subscribe-blue)](https://viz4sci.substack.com/subscribe)
 [![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4sci.ck.page/8a51c452bc)
 
 # Why and What If: Causal Inference for Everyone
@@ -28,18 +29,18 @@ In this course, we will explore the three steps in the ladder of causation: 1. A
 - Graphical Models
 - The Ladder of Causality
 
-### Properties of Graphical models
+### 2. Properties of Graphical models
 - Chains
 - Forks
 - Colliders
 - d-separation 
 
-### Interventions
+### 3. Interventions
 - Back-door criterion
 - Front-door criterion
 - Mediation
 
-### Counterfactuals
+### 4. Counterfactuals
 - The fundamental laws of counterfactuals
 - Graphical representation
 - Practical Applications
